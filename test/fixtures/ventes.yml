@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  date_vente: 2021-07-17
+  montant_vente: 1.5
+  qte_vente: 1
+
+two:
+  date_vente: 2021-07-17
+  montant_vente: 1.5
+  qte_vente: 1
