@@ -26,11 +26,11 @@ Things you may want to cover:
     $ rails s
 # Catalogu Design
 
-   https://docs.google.com/spreadsheets/d/1UCpO_venSevnltBkEFRlc2R-4ow0HDhpWm3yqCmAKlU/edit#gid=0
+https://docs.google.com/spreadsheets/d/1rPBZAthHKIEdGmc1aGj_3lheDMttqhcxNT2DgeHEoGU/edit#gid=969283553
 
 # Table Definition Document
 
-https://docs.google.com/spreadsheets/d/1UCpO_venSevnltBkEFRlc2R-4ow0HDhpWm3yqCmAKlU/edit#gid=0
+https://docs.google.com/spreadsheets/d/1rPBZAthHKIEdGmc1aGj_3lheDMttqhcxNT2DgeHEoGU/edit#gid=969283553
 
 # Wireframe
 
